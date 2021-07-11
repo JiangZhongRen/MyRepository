@@ -11,6 +11,7 @@
     <modules>
         <module>FanaticalMan-esMapper</module>
         <module>FanaticalMan-common</module>
+        <module>FanaticalMan-dataGetway</module>
     </modules>
 
     <parent>
@@ -24,7 +25,6 @@
     </properties>
 
     <dependencyManagement>
-        <dependencies>
-        </dependencies>
+        <dependencies></dependencies>
     </dependencyManagement>
 </project>

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="FanaticalMan-esMapper" />
         <module name="FanaticalMan-common" />
+        <module name="FanaticalMan-dataGetway" />
       </profile>
     </annotationProcessing>
   </component>
@@ -15,6 +16,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="FanaticalMan" options="-parameters" />
       <module name="FanaticalMan-common" options="-parameters" />
+      <module name="FanaticalMan-dataGetway" options="-parameters" />
       <module name="FanaticalMan-esMapper" options="-parameters" />
     </option>
   </component>
